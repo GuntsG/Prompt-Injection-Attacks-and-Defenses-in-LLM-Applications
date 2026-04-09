@@ -6,3 +6,5 @@
 🚀 How to Run (basic instructions)
 👥 Team Members
 📅 Timeline (optional but recommended)
+Attribution Requirement:
+Any academic, research, or commercial usage must cite the original repository and authors.
