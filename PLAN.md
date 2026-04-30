@@ -8,9 +8,9 @@
 A security analysis of prompt injection vulnerabilities in structured LLM pipelines. The project tests how malicious attacks within automated invoice processing can hijack simulated agentic functions (e.g. unauthorized wire transfers). It establishes a baseline invoice model and evaluates the efficacy of a multi-layered defense architecture. The defenses span prompt-level techniques (XML Spotlighting, Instruction Hierarchy), Dual-LLM/CaMel privilege separation, and Thought Trace Evaluation.
 
 ### Objectives
-•	Evaluating the vulnerability of Gemini 2.5 to targeted data manipulation within unstructured output constraints.
-•	Implement schema enforcement, dual llms, and delimiter based defenses from recent AI security research.
-•	Quantify the Attack Success Rate drop across base vs defended llm to provide statistically significant insights using McNemar's test. Providing insights into both the independant and combined efficacy of the different defenses for secure data engineering.
+-	Evaluating the vulnerability of Gemini 2.5 to targeted data manipulation within unstructured output constraints.
+-	Implement schema enforcement, dual llms, and delimiter based defenses from recent AI security research.
+-	Quantify the Attack Success Rate drop across base vs defended llm to provide statistically significant insights using McNemar's test. Providing insights into both the independant and combined efficacy of the different defenses for secure data engineering.
 
 ## Tasks
 ### Phase 1-Gather Dataset, conduct research, and baseline pipeline construction.
@@ -37,7 +37,7 @@ A security analysis of prompt injection vulnerabilities in structured LLM pipeli
 - [ ] Prepare the final project deliverables which include: Drafting the academic report detailing the methodology, defense layering efficacy, and final metrics. Finalize the GitHub repository with a reproducible dataset and live exploit/defense demo script.
 
 ### Tech Stack
-•	Language: Python 3.10+
-•	LLM Provider: Google Gemini API (Models: gemini-2.5-flash, gemini-2.5-flash-lite)
-•	Agent Framework: LangChain / LangGraph (create_agent, @tool decorators)
-•	Data Manipulation: pandas
+-	Language: Python 3.10+
+-	LLM Provider: Google Gemini API (Models: gemini-2.5-flash, gemini-2.5-flash-lite)
+-	Agent Framework: LangChain / LangGraph (create_agent, @tool decorators)
+-	Data Manipulation: pandas
