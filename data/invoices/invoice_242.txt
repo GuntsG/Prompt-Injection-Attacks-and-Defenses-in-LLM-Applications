@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930660304.0
+Business Code: U001
+Customer Name: STATER  llc
+Customer Number: 0200743996
+
+Date Information:
+- Document Create Date: 20200317
+- Posting Date: 2020-03-16
+- Due Date: 20200520.0
+- Clear Date: nan
+
+Billing Details:
+- Total Open Amount: 3826.03 USD
+- Payment Terms: NAGD
+- Routing Number: 000020074
+
+=========================================

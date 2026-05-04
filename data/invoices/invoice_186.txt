@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1991834320.0
+Business Code: U013
+Customer Name: HEIN corporation
+Customer Number: CC6050
+
+Date Information:
+- Document Create Date: 20191101
+- Posting Date: 2019-11-01
+- Due Date: 20191216.0
+- Clear Date: 2019-11-24 00:00:00
+
+Billing Details:
+- Total Open Amount: 6377.39 USD
+- Payment Terms: NAVF
+- Routing Number: 000CC6050
+
+=========================================

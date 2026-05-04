@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929946267.0
+Business Code: U001
+Customer Name: ASSOCIAT 
+Customer Number: 0200772670
+
+Date Information:
+- Document Create Date: 20191001
+- Posting Date: 2019-10-03
+- Due Date: 20191018.0
+- Clear Date: 2019-10-18 00:00:00
+
+Billing Details:
+- Total Open Amount: 2254.37 USD
+- Payment Terms: NAU5
+- Routing Number: 000020077
+
+=========================================

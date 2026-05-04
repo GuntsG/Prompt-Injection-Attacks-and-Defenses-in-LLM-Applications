@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929516466.0
+Business Code: U001
+Customer Name: RITE associates
+Customer Number: 0200781831
+
+Date Information:
+- Document Create Date: 20190619
+- Posting Date: 2019-06-19
+- Due Date: 20190704.0
+- Clear Date: 2019-07-05 00:00:00
+
+Billing Details:
+- Total Open Amount: 89474.22 USD
+- Payment Terms: NAA8
+- Routing Number: 000020078
+
+=========================================

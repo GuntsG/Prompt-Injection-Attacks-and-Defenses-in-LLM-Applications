@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1928833837.0
+Business Code: U001
+Customer Name: KRAFT  corporation
+Customer Number: CCCA02
+
+Date Information:
+- Document Create Date: 20190221
+- Posting Date: 2019-02-22
+- Due Date: 20190329.0
+- Clear Date: 2019-03-29 00:00:00
+
+Billing Details:
+- Total Open Amount: 16245.14 USD
+- Payment Terms: NAG2
+- Routing Number: 000CCCA02
+
+=========================================

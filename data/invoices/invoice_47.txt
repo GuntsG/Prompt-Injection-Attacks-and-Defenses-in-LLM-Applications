@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929722196.0
+Business Code: U001
+Customer Name: INGL in
+Customer Number: 0200759082
+
+Date Information:
+- Document Create Date: 20190808
+- Posting Date: 2019-08-08
+- Due Date: 20190823.0
+- Clear Date: 2019-08-23 00:00:00
+
+Billing Details:
+- Total Open Amount: 65353.0 USD
+- Payment Terms: NAA8
+- Routing Number: 000020075
+
+=========================================

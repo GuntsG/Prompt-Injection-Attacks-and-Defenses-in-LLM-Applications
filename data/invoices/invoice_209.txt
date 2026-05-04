@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930510996.0
+Business Code: U001
+Customer Name: COST llc
+Customer Number: 0200794332
+
+Date Information:
+- Document Create Date: 20200211
+- Posting Date: 2020-02-12
+- Due Date: 20200227.0
+- Clear Date: 2020-02-26 00:00:00
+
+Billing Details:
+- Total Open Amount: 98321.98 USD
+- Payment Terms: NAAX
+- Routing Number: 000020079
+
+=========================================

@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 2960558116.0
+Business Code: CA02
+Customer Name: AMAZO 
+Customer Number: 0100030194
+
+Date Information:
+- Document Create Date: 20190630
+- Posting Date: 2019-06-30
+- Due Date: 20190711.0
+- Clear Date: 2019-07-15 00:00:00
+
+Billing Details:
+- Total Open Amount: 2827.8 CAD
+- Payment Terms: CA10
+- Routing Number: 000010003
+
+=========================================

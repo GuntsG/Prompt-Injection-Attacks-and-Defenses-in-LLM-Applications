@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 2960594416.0
+Business Code: CA02
+Customer Name: COSTCO co
+Customer Number: 0140104429
+
+Date Information:
+- Document Create Date: 20191119
+- Posting Date: 2019-11-19
+- Due Date: 20191207.0
+- Clear Date: 2019-12-12 00:00:00
+
+Billing Details:
+- Total Open Amount: 92913.93 CAD
+- Payment Terms: CA10
+- Routing Number: 000014010
+
+=========================================

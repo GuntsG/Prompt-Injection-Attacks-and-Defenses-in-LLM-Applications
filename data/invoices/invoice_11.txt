@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1928550622.0
+Business Code: U001
+Customer Name: BROOKS co
+Customer Number: 0200743129
+
+Date Information:
+- Document Create Date: 20190102
+- Posting Date: 2019-01-02
+- Due Date: 20190117.0
+- Clear Date: 2019-01-22 00:00:00
+
+Billing Details:
+- Total Open Amount: 103147.37 USD
+- Payment Terms: NAA8
+- Routing Number: 000020074
+
+=========================================

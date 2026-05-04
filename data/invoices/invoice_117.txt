@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929855149.0
+Business Code: U001
+Customer Name: DOLLA llc
+Customer Number: 0200148860
+
+Date Information:
+- Document Create Date: 20190910
+- Posting Date: 2019-09-10
+- Due Date: 20190925.0
+- Clear Date: 2019-09-25 00:00:00
+
+Billing Details:
+- Total Open Amount: 99386.3 USD
+- Payment Terms: NAA8
+- Routing Number: 000020014
+
+=========================================

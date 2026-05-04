@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930620634.0
+Business Code: U001
+Customer Name: TARG systems
+Customer Number: 0200744019
+
+Date Information:
+- Document Create Date: 20200307
+- Posting Date: 2020-03-10
+- Due Date: 20200514.0
+- Clear Date: nan
+
+Billing Details:
+- Total Open Amount: 10665.53 USD
+- Payment Terms: NAGD
+- Routing Number: 000020074
+
+=========================================

@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929487380.0
+Business Code: U001
+Customer Name: INTERSTA co
+Customer Number: 0100032262
+
+Date Information:
+- Document Create Date: 20190613
+- Posting Date: 2019-06-18
+- Due Date: 20190628.0
+- Clear Date: 2019-06-29 00:00:00
+
+Billing Details:
+- Total Open Amount: 13872.48 USD
+- Payment Terms: NA10
+- Routing Number: 000010003
+
+=========================================

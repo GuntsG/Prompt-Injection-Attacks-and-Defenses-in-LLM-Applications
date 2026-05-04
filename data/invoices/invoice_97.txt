@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930174350.0
+Business Code: U001
+Customer Name: INTERN trust
+Customer Number: 0100033266
+
+Date Information:
+- Document Create Date: 20191120
+- Posting Date: 2019-11-25
+- Due Date: 20191210.0
+- Clear Date: 2019-12-24 00:00:00
+
+Billing Details:
+- Total Open Amount: 17243.1 USD
+- Payment Terms: NAA8
+- Routing Number: 000010003
+
+=========================================

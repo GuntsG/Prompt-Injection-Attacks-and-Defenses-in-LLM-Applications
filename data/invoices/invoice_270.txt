@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930048137.0
+Business Code: U001
+Customer Name: SMITH'S in
+Customer Number: 0200466603
+
+Date Information:
+- Document Create Date: 20191023
+- Posting Date: 2019-10-23
+- Due Date: 20191107.0
+- Clear Date: 2019-11-07 00:00:00
+
+Billing Details:
+- Total Open Amount: 96922.79 USD
+- Payment Terms: NAA8
+- Routing Number: 000020046
+
+=========================================

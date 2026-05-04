@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930333198.0
+Business Code: U001
+Customer Name: COST systems
+Customer Number: 0200794332
+
+Date Information:
+- Document Create Date: 20191230
+- Posting Date: 2020-01-02
+- Due Date: 20200117.0
+- Clear Date: 2020-01-17 00:00:00
+
+Billing Details:
+- Total Open Amount: 20557.14 USD
+- Payment Terms: NAAX
+- Routing Number: 000020079
+
+=========================================

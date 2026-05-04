@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929360520.0
+Business Code: U001
+Customer Name: BRADY trust
+Customer Number: 0200942148
+
+Date Information:
+- Document Create Date: 20190522
+- Posting Date: 2019-05-22
+- Due Date: 20190621.0
+- Clear Date: 2019-10-10 00:00:00
+
+Billing Details:
+- Total Open Amount: 16912.8 USD
+- Payment Terms: NAD5
+- Routing Number: 000020094
+
+=========================================

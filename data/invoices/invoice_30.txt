@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929170780.0
+Business Code: U001
+Customer Name: ALBER systems
+Customer Number: 0200750051
+
+Date Information:
+- Document Create Date: 20190418
+- Posting Date: 2019-04-18
+- Due Date: 20190503.0
+- Clear Date: 2019-05-03 00:00:00
+
+Billing Details:
+- Total Open Amount: 6023.53 USD
+- Payment Terms: NAA8
+- Routing Number: 000020075
+
+=========================================

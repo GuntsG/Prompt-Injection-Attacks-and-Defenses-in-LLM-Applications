@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930267709.0
+Business Code: U001
+Customer Name: SYSC systems
+Customer Number: 0200331749
+
+Date Information:
+- Document Create Date: 20191211
+- Posting Date: 2019-12-12
+- Due Date: 20191227.0
+- Clear Date: 2019-12-31 00:00:00
+
+Billing Details:
+- Total Open Amount: 17710.21 USD
+- Payment Terms: NAA8
+- Routing Number: 000020033
+
+=========================================

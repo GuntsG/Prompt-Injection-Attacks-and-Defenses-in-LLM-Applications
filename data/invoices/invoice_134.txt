@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929581970.0
+Business Code: U001
+Customer Name: SAFEW us
+Customer Number: 0200772595
+
+Date Information:
+- Document Create Date: 20190706
+- Posting Date: 2019-07-06
+- Due Date: 20190721.0
+- Clear Date: 2019-07-23 00:00:00
+
+Billing Details:
+- Total Open Amount: 48577.93 USD
+- Payment Terms: NAA8
+- Routing Number: 000020077
+
+=========================================

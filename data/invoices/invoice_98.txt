@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930512246.0
+Business Code: U001
+Customer Name: TARG associates
+Customer Number: 0200744019
+
+Date Information:
+- Document Create Date: 20200211
+- Posting Date: 2020-02-11
+- Due Date: 20200226.0
+- Clear Date: 2020-02-26 00:00:00
+
+Billing Details:
+- Total Open Amount: 22993.63 USD
+- Payment Terms: NAA8
+- Routing Number: 000020074
+
+=========================================

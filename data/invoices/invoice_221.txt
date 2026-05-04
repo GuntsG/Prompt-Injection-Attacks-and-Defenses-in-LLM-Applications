@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930034353.0
+Business Code: U001
+Customer Name: KROG corp
+Customer Number: 0200749782
+
+Date Information:
+- Document Create Date: 20191019
+- Posting Date: 2019-10-20
+- Due Date: 20191104.0
+- Clear Date: 2019-11-04 00:00:00
+
+Billing Details:
+- Total Open Amount: 8301.45 USD
+- Payment Terms: NAA8
+- Routing Number: 000020074
+
+=========================================

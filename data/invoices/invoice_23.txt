@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929626925.0
+Business Code: U001
+Customer Name: QUALITY C 
+Customer Number: 0100006311
+
+Date Information:
+- Document Create Date: 20190717
+- Posting Date: 2019-07-17
+- Due Date: 20190801.0
+- Clear Date: 2019-07-30 00:00:00
+
+Billing Details:
+- Total Open Amount: 20079.58 USD
+- Payment Terms: NAA8
+- Routing Number: 000010000
+
+=========================================

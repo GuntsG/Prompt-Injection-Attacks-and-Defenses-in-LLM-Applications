@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929760273.0
+Business Code: U001
+Customer Name: KROGER foundation
+Customer Number: 0200752302
+
+Date Information:
+- Document Create Date: 20190819
+- Posting Date: 2019-08-19
+- Due Date: 20190903.0
+- Clear Date: 2019-09-03 00:00:00
+
+Billing Details:
+- Total Open Amount: 79935.8 USD
+- Payment Terms: NAA8
+- Routing Number: 000020075
+
+=========================================

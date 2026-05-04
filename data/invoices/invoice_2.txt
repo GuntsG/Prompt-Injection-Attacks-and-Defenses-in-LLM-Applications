@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929873765.0
+Business Code: U001
+Customer Name: MDV/ trust
+Customer Number: 0200792734
+
+Date Information:
+- Document Create Date: 20190914
+- Posting Date: 2019-09-14
+- Due Date: 20190929.0
+- Clear Date: 2019-12-30 00:00:00
+
+Billing Details:
+- Total Open Amount: 2253.86 USD
+- Payment Terms: NAA8
+- Routing Number: 000020079
+
+=========================================

@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930460093.0
+Business Code: U001
+Customer Name: DOLLAR systems
+Customer Number: 0100001196
+
+Date Information:
+- Document Create Date: 20200131
+- Posting Date: 2020-02-01
+- Due Date: 20200216.0
+- Clear Date: 2020-02-13 00:00:00
+
+Billing Details:
+- Total Open Amount: 20217.6 USD
+- Payment Terms: NAA8
+- Routing Number: 000010000
+
+=========================================

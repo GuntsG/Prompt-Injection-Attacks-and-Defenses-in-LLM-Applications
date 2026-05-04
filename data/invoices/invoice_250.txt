@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929193901.0
+Business Code: U001
+Customer Name: QUI us
+Customer Number: 0200742791
+
+Date Information:
+- Document Create Date: 20190423
+- Posting Date: 2019-04-24
+- Due Date: 20190509.0
+- Clear Date: 2019-05-13 00:00:00
+
+Billing Details:
+- Total Open Amount: 23150.75 USD
+- Payment Terms: NAA8
+- Routing Number: 000020074
+
+=========================================

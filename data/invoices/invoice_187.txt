@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930517452.0
+Business Code: U001
+Customer Name: INTERR llc
+Customer Number: 0200580232
+
+Date Information:
+- Document Create Date: 20200212
+- Posting Date: 2020-02-11
+- Due Date: 20200221.0
+- Clear Date: 2020-02-26 00:00:00
+
+Billing Details:
+- Total Open Amount: 42383.25 USD
+- Payment Terms: NA10
+- Routing Number: 000020058
+
+=========================================

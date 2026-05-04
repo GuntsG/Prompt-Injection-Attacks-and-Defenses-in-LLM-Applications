@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929725793.0
+Business Code: U001
+Customer Name: SA associates
+Customer Number: 0200759878
+
+Date Information:
+- Document Create Date: 20190809
+- Posting Date: 2019-08-09
+- Due Date: 20190824.0
+- Clear Date: 2019-08-27 00:00:00
+
+Billing Details:
+- Total Open Amount: 26097.25 USD
+- Payment Terms: NAH4
+- Routing Number: 000020075
+
+=========================================

@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930733767.0
+Business Code: U001
+Customer Name: KROGER trust
+Customer Number: 0200752302
+
+Date Information:
+- Document Create Date: 20200402
+- Posting Date: 2020-04-02
+- Due Date: 20200417.0
+- Clear Date: nan
+
+Billing Details:
+- Total Open Amount: 96674.05 USD
+- Payment Terms: NAA8
+- Routing Number: 000020075
+
+=========================================

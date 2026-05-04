@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929213250.0
+Business Code: U001
+Customer Name: US  co
+Customer Number: 0200622385
+
+Date Information:
+- Document Create Date: 20190426
+- Posting Date: 2019-04-26
+- Due Date: 20190511.0
+- Clear Date: 2019-05-10 00:00:00
+
+Billing Details:
+- Total Open Amount: 981.31 USD
+- Payment Terms: NAA8
+- Routing Number: 000020062
+
+=========================================

@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929248983.0
+Business Code: U001
+Customer Name: DARDEN D corp
+Customer Number: 0200229974
+
+Date Information:
+- Document Create Date: 20190502
+- Posting Date: 2019-05-02
+- Due Date: 20190517.0
+- Clear Date: 2019-05-15 00:00:00
+
+Billing Details:
+- Total Open Amount: 22759.63 USD
+- Payment Terms: NAA8
+- Routing Number: 000020022
+
+=========================================

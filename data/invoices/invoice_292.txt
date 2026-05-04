@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929410604.0
+Business Code: U001
+Customer Name: DOT corporation
+Customer Number: 0200705742
+
+Date Information:
+- Document Create Date: 20190531
+- Posting Date: 2019-05-31
+- Due Date: 20190704.0
+- Clear Date: 2019-06-17 00:00:00
+
+Billing Details:
+- Total Open Amount: 2960.57 USD
+- Payment Terms: NAAW
+- Routing Number: 000020070
+
+=========================================

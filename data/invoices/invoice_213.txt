@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929951641.0
+Business Code: U001
+Customer Name: SUPE associates
+Customer Number: 0200936373
+
+Date Information:
+- Document Create Date: 20191002
+- Posting Date: 2019-10-01
+- Due Date: 20191016.0
+- Clear Date: 2019-10-17 00:00:00
+
+Billing Details:
+- Total Open Amount: 136.08 USD
+- Payment Terms: NAA8
+- Routing Number: 000020093
+
+=========================================

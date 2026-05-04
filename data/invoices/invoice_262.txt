@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1928534990.0
+Business Code: U001
+Customer Name: KRAFT F foundation
+Customer Number: CCU013
+
+Date Information:
+- Document Create Date: 20181231
+- Posting Date: 2019-01-01
+- Due Date: 20190101.0
+- Clear Date: 2019-03-01 00:00:00
+
+Billing Details:
+- Total Open Amount: 3195.37 USD
+- Payment Terms: NAX2
+- Routing Number: 000CCU013
+
+=========================================

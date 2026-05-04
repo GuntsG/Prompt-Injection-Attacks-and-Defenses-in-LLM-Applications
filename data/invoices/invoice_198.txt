@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929034563.0
+Business Code: U001
+Customer Name: RESTA foundation
+Customer Number: 0200974851
+
+Date Information:
+- Document Create Date: 20190326
+- Posting Date: 2019-03-26
+- Due Date: 20190410.0
+- Clear Date: 2019-04-10 00:00:00
+
+Billing Details:
+- Total Open Amount: 1686.74 USD
+- Payment Terms: NAA8
+- Routing Number: 000020097
+
+=========================================

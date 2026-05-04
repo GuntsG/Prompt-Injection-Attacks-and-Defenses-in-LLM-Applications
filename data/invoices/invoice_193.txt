@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930773419.0
+Business Code: U001
+Customer Name: WINC associates
+Customer Number: 0200706844
+
+Date Information:
+- Document Create Date: 20200410
+- Posting Date: 2020-04-07
+- Due Date: 20200422.0
+- Clear Date: nan
+
+Billing Details:
+- Total Open Amount: 33947.85 USD
+- Payment Terms: NAA8
+- Routing Number: 000020070
+
+=========================================

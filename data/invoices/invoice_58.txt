@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929620499.0
+Business Code: U001
+Customer Name: SYSCO FO trust
+Customer Number: 0200780825
+
+Date Information:
+- Document Create Date: 20190715
+- Posting Date: 2019-07-16
+- Due Date: 20190731.0
+- Clear Date: 2019-07-30 00:00:00
+
+Billing Details:
+- Total Open Amount: 322.48 USD
+- Payment Terms: NAA8
+- Routing Number: 000020078
+
+=========================================

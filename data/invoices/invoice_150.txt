@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929206084.0
+Business Code: U001
+Customer Name: DECA foundation
+Customer Number: 200592182
+
+Date Information:
+- Document Create Date: 20190425
+- Posting Date: 2019-04-25
+- Due Date: 20190426.0
+- Clear Date: 2019-04-25 00:00:00
+
+Billing Details:
+- Total Open Amount: 7642.71 USD
+- Payment Terms: NAM2
+- Routing Number: 000200592
+
+=========================================

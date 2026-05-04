@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929706222.0
+Business Code: U001
+Customer Name: ASSOCI in
+Customer Number: 0200719839
+
+Date Information:
+- Document Create Date: 20190805
+- Posting Date: 2019-08-07
+- Due Date: 20191105.0
+- Clear Date: 2019-11-04 00:00:00
+
+Billing Details:
+- Total Open Amount: 1172.53 USD
+- Payment Terms: NAVR
+- Routing Number: 000020071
+
+=========================================

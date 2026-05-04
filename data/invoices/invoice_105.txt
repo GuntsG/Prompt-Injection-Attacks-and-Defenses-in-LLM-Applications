@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929061083.0
+Business Code: U001
+Customer Name: REINHA trust
+Customer Number: 0200756072
+
+Date Information:
+- Document Create Date: 20190401
+- Posting Date: 2019-04-02
+- Due Date: 20190417.0
+- Clear Date: 2019-04-17 00:00:00
+
+Billing Details:
+- Total Open Amount: 18828.87 USD
+- Payment Terms: NAA8
+- Routing Number: 000020075
+
+=========================================

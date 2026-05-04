@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930788296.0
+Business Code: U001
+Customer Name: OK systems
+Customer Number: 0200739534
+
+Date Information:
+- Document Create Date: 20200415
+- Posting Date: 2020-04-15
+- Due Date: 20200430.0
+- Clear Date: nan
+
+Billing Details:
+- Total Open Amount: 121105.65 USD
+- Payment Terms: NAA8
+- Routing Number: 000020073
+
+=========================================

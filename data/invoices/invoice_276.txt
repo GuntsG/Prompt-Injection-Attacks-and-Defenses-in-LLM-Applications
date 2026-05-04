@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929820815.0
+Business Code: U001
+Customer Name: GROC corporation
+Customer Number: 0200915438
+
+Date Information:
+- Document Create Date: 20190901
+- Posting Date: 2019-09-03
+- Due Date: 20190918.0
+- Clear Date: 2019-09-18 00:00:00
+
+Billing Details:
+- Total Open Amount: 15925.12 USD
+- Payment Terms: NAA8
+- Routing Number: 000020091
+
+=========================================

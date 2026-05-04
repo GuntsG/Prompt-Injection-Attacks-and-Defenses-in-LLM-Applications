@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930052739.0
+Business Code: U001
+Customer Name: COST in
+Customer Number: 0200794332
+
+Date Information:
+- Document Create Date: 20191025
+- Posting Date: 2019-10-25
+- Due Date: 20191109.0
+- Clear Date: 2019-11-12 00:00:00
+
+Billing Details:
+- Total Open Amount: 5181.51 USD
+- Payment Terms: NAAX
+- Routing Number: 000020079
+
+=========================================

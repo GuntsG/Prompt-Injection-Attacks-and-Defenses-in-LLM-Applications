@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930789873.0
+Business Code: U001
+Customer Name: DELHAIZE associates
+Customer Number: 0100031704
+
+Date Information:
+- Document Create Date: 20200416
+- Posting Date: 2020-04-15
+- Due Date: 20200430.0
+- Clear Date: nan
+
+Billing Details:
+- Total Open Amount: 70181.07 USD
+- Payment Terms: NAA8
+- Routing Number: 000010003
+
+=========================================

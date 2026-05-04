@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929251852.0
+Business Code: U001
+Customer Name: DASA I 
+Customer Number: 0100028450
+
+Date Information:
+- Document Create Date: 20190506
+- Posting Date: 2019-05-06
+- Due Date: 20190516.0
+- Clear Date: 2019-05-23 00:00:00
+
+Billing Details:
+- Total Open Amount: 24351.25 USD
+- Payment Terms: NA10
+- Routing Number: 000010002
+
+=========================================

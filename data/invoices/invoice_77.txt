@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930774741.0
+Business Code: U001
+Customer Name: WAL-MAR foundation
+Customer Number: 0200769623
+
+Date Information:
+- Document Create Date: 20200410
+- Posting Date: 2020-04-10
+- Due Date: 20200425.0
+- Clear Date: nan
+
+Billing Details:
+- Total Open Amount: 55400.31 USD
+- Payment Terms: NAH4
+- Routing Number: 000020076
+
+=========================================

@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929773400.0
+Business Code: U001
+Customer Name: FAREW us
+Customer Number: 0200783734
+
+Date Information:
+- Document Create Date: 20190822
+- Posting Date: 2019-08-21
+- Due Date: 20190905.0
+- Clear Date: 2019-09-04 00:00:00
+
+Billing Details:
+- Total Open Amount: 11845.19 USD
+- Payment Terms: NAA8
+- Routing Number: 000020078
+
+=========================================

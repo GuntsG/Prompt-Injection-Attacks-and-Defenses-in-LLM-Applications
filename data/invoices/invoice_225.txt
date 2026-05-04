@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930348025.0
+Business Code: U001
+Customer Name: NICH corp
+Customer Number: 0200779111
+
+Date Information:
+- Document Create Date: 20200103
+- Posting Date: 2020-01-03
+- Due Date: 20200118.0
+- Clear Date: 2020-01-24 00:00:00
+
+Billing Details:
+- Total Open Amount: 495.86 USD
+- Payment Terms: NAA8
+- Routing Number: 000020077
+
+=========================================

@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930189164.0
+Business Code: U001
+Customer Name: DOT associates
+Customer Number: 0200705742
+
+Date Information:
+- Document Create Date: 20191124
+- Posting Date: 2019-11-25
+- Due Date: 20191229.0
+- Clear Date: 2019-12-10 00:00:00
+
+Billing Details:
+- Total Open Amount: 94490.93 USD
+- Payment Terms: NAAW
+- Routing Number: 000020070
+
+=========================================

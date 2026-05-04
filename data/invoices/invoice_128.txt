@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930389805.0
+Business Code: U001
+Customer Name: BIRD-I 
+Customer Number: 0200966888
+
+Date Information:
+- Document Create Date: 20200111
+- Posting Date: 2020-01-10
+- Due Date: 20200120.0
+- Clear Date: 2020-01-25 00:00:00
+
+Billing Details:
+- Total Open Amount: 4884.0 USD
+- Payment Terms: NA10
+- Routing Number: 000020096
+
+=========================================

@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929970361.0
+Business Code: U001
+Customer Name: TARG 
+Customer Number: 0200744019
+
+Date Information:
+- Document Create Date: 20191005
+- Posting Date: 2019-10-06
+- Due Date: 20191021.0
+- Clear Date: 2019-10-23 00:00:00
+
+Billing Details:
+- Total Open Amount: 13533.21 USD
+- Payment Terms: NAA8
+- Routing Number: 000020074
+
+=========================================

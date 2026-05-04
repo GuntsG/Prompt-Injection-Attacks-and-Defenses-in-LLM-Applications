@@ -14,22 +14,22 @@ A security analysis of prompt injection vulnerabilities in structured LLM pipeli
 
 ## Tasks
 ### Phase 1-Gather Dataset, conduct research, and baseline pipeline construction.
--  [ ] Get invoice dataset from kaggle https://www.kaggle.com/datasets/pradumn203/payment-date-prediction-for-invoices-dataset
--  [ ] Select a subset of invoices and write a Python script to convert the tabular rows into text-based "Invoice Documents" (like pdfs) to simulate realistic, semi-structured LLM inputs.
--  [ ] Set up API connections for the Gemini 2.5 models.
+-  [x] Get invoice dataset from kaggle https://www.kaggle.com/datasets/pradumn203/payment-date-prediction-for-invoices-dataset
+-  [x] Select a subset of invoices and write a Python script to convert the tabular rows into text-based "Invoice Documents" (like pdfs) to simulate realistic, semi-structured LLM inputs.
+-  [x] Set up API connections for the Gemini 2.5 models.
 
 ### Phase 2-Create the base invoice model, the prompt injections for it, and recording initial metrics.
-- [ ] Build the baseline invoice extraction pipeline.
-- [ ] Create mock agentic tools like initiate_wire_transfer(vendor_name, routing_number, amount) that appends to a local transfer_ledger list. Mock Agent should be able to read invoices, initiate wire transfer, or request wire transfers.
-- [ ] Design and inject custom prompt attacks with varying locations and instruction syntax into the invoice subset.
+- [x] Build the baseline invoice extraction pipeline.
+- [x] Create mock agentic tools like initiate_wire_transfer(vendor_name, routing_number, amount) that appends to a local transfer_ledger list. Mock Agent should be able to read invoices, initiate wire transfer, or request wire transfers.
+- [x] Design and inject custom prompt attacks with varying locations and instruction syntax into the invoice subset.
 - [ ] Attack the baseline pipeline and record the initial metrics , specifically measuring Attack Success Rate (succesful attacks / total attacks), False Positive Rate, and Cost/Latency.
 
 ### Phase 3-Engineer the dual llm, delimiters, and other defenses.
-- [ ] Implement XML delimiters as a spotlighting technique to strictly separate raw invoice data from system instructions.
-- [ ] Implement Instruction Hierarchy, Restructure the prompt template so user input is bounded at the top, and critical system instructions are placed at the absolute bottom as the final authoritative command.
-- [ ] Engineer the CaMel defense architecture by separating the workflow into a quarantined LLM for reading untrusted data and a privileged LLM for executing API tools.
-- [ ] Thought Trace Evaluation: Require a mandatory thought_trace from the executing LLM. Introduce a lightweight Evaluator LLM to scan this trace for anomalous reasoning or override compliance.
-- [ ] Schema Validation Enforce a strict predefined JSON schema to filter out malicious code or weird conversational outputs.
+- [x] Implement XML delimiters as a spotlighting technique to strictly separate raw invoice data from system instructions.
+- [x] Implement Instruction Hierarchy, Restructure the prompt template so user input is bounded at the top, and critical system instructions are placed at the absolute bottom as the final authoritative command.
+- [x] Engineer the CaMel defense architecture by separating the workflow into a quarantined LLM for reading untrusted data and a privileged LLM for executing API tools.
+- [x] Thought Trace Evaluation: Require a mandatory thought_trace from the executing LLM. Introduce a lightweight Evaluator LLM to scan this trace for anomalous reasoning or override compliance.
+- [x] Schema Validation Enforce a strict predefined JSON schema to filter out malicious code or weird conversational outputs.
 
 ### Phase 4-Final evaluation, data analysis, and report drafting.
 - [ ] Defended Pipeline Evaluation: Re-run the attack dataset against the pipeline with all defenses active. Conduct McNemar's test for analysis to validate the statistical significance of the drop in Attack Success Rate between the baseline and defended systems. Log the final ASR, FPR (False Positive Rate), Cost, and Latency.

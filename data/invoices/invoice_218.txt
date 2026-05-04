@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1991836688.0
+Business Code: U013
+Customer Name: PANAMEX  corporation
+Customer Number: 0100036060
+
+Date Information:
+- Document Create Date: 20200102
+- Posting Date: 2020-01-06
+- Due Date: 20200306.0
+- Clear Date: 2020-03-17 00:00:00
+
+Billing Details:
+- Total Open Amount: 24643.72 USD
+- Payment Terms: NAUZ
+- Routing Number: 000010003
+
+=========================================

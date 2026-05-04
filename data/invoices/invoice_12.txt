@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929151655.0
+Business Code: U001
+Customer Name: SYSC corporation
+Customer Number: 0200186937
+
+Date Information:
+- Document Create Date: 20190415
+- Posting Date: 2019-04-15
+- Due Date: 20190430.0
+- Clear Date: 2019-05-06 00:00:00
+
+Billing Details:
+- Total Open Amount: 16381.45 USD
+- Payment Terms: NAA8
+- Routing Number: 000020018
+
+=========================================

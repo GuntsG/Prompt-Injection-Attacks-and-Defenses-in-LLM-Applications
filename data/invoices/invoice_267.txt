@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1928964353.0
+Business Code: U001
+Customer Name: WEIS systems
+Customer Number: 0200771157
+
+Date Information:
+- Document Create Date: 20190314
+- Posting Date: 2019-03-15
+- Due Date: 20190519.0
+- Clear Date: 2019-05-20 00:00:00
+
+Billing Details:
+- Total Open Amount: 3490.87 USD
+- Payment Terms: NAGD
+- Routing Number: 000020077
+
+=========================================

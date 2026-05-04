@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 2960631200.0
+Business Code: CA02
+Customer Name: WAL-M in
+Customer Number: 140106408
+
+Date Information:
+- Document Create Date: 20200425
+- Posting Date: 2020-04-25
+- Due Date: 20200505.0
+- Clear Date: nan
+
+Billing Details:
+- Total Open Amount: 40768.12 CAD
+- Payment Terms: CA10
+- Routing Number: 000140106
+
+=========================================

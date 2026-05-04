@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930391457.0
+Business Code: U001
+Customer Name: MBM  foundation
+Customer Number: 0200701314
+
+Date Information:
+- Document Create Date: 20200113
+- Posting Date: 2020-01-15
+- Due Date: 20200130.0
+- Clear Date: 2020-01-31 00:00:00
+
+Billing Details:
+- Total Open Amount: 12606.72 USD
+- Payment Terms: NAA8
+- Routing Number: 000020070
+
+=========================================

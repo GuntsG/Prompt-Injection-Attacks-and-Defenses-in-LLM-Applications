@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930553179.0
+Business Code: U001
+Customer Name: DECA 
+Customer Number: 0200353024
+
+Date Information:
+- Document Create Date: 20200221
+- Posting Date: 2020-02-21
+- Due Date: 20200310.0
+- Clear Date: 2020-03-02 00:00:00
+
+Billing Details:
+- Total Open Amount: 28.32 USD
+- Payment Terms: NAM4
+- Routing Number: 000020035
+
+=========================================

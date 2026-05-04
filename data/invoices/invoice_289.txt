@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929767260.0
+Business Code: U001
+Customer Name: WALG associates
+Customer Number: 0200712105
+
+Date Information:
+- Document Create Date: 20190820
+- Posting Date: 2019-08-20
+- Due Date: 20190904.0
+- Clear Date: 2019-09-06 00:00:00
+
+Billing Details:
+- Total Open Amount: 16930.48 USD
+- Payment Terms: NAA8
+- Routing Number: 000020071
+
+=========================================

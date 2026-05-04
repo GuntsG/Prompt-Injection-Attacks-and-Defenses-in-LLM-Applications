@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 2960608664.0
+Business Code: CA02
+Customer Name: GORDON F associates
+Customer Number: 0140105847
+
+Date Information:
+- Document Create Date: 20200123
+- Posting Date: 2020-01-23
+- Due Date: 20200210.0
+- Clear Date: 2020-02-10 00:00:00
+
+Billing Details:
+- Total Open Amount: 67110.85 CAD
+- Payment Terms: CA10
+- Routing Number: 000014010
+
+=========================================

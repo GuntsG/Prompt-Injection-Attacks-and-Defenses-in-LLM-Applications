@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929485994.0
+Business Code: U001
+Customer Name: WAL-MAR corporation
+Customer Number: 200769623
+
+Date Information:
+- Document Create Date: 20190613
+- Posting Date: 2019-06-13
+- Due Date: 20190628.0
+- Clear Date: 2019-06-25 00:00:00
+
+Billing Details:
+- Total Open Amount: 3748.84 USD
+- Payment Terms: NAH4
+- Routing Number: 000200769
+
+=========================================

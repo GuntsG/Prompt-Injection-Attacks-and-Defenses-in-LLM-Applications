@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 2960541801.0
+Business Code: CA02
+Customer Name: KRAFT  trust
+Customer Number: CCU001
+
+Date Information:
+- Document Create Date: 20190412
+- Posting Date: 2019-04-12
+- Due Date: 20190519.0
+- Clear Date: 2019-05-31 00:00:00
+
+Billing Details:
+- Total Open Amount: 31715.46 CAD
+- Payment Terms: NAG2
+- Routing Number: 000CCU001
+
+=========================================

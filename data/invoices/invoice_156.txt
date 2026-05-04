@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930272033.0
+Business Code: U001
+Customer Name: C&S W llc
+Customer Number: 0200965912
+
+Date Information:
+- Document Create Date: 20191212
+- Posting Date: 2019-12-13
+- Due Date: 20191228.0
+- Clear Date: 2019-12-30 00:00:00
+
+Billing Details:
+- Total Open Amount: 45235.58 USD
+- Payment Terms: NAC6
+- Routing Number: 000020096
+
+=========================================

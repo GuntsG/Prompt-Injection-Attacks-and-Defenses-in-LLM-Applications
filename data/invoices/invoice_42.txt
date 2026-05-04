@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930415312.0
+Business Code: U001
+Customer Name: COAS corporation
+Customer Number: 0200337148
+
+Date Information:
+- Document Create Date: 20200120
+- Posting Date: 2020-01-22
+- Due Date: 20200206.0
+- Clear Date: 2020-02-06 00:00:00
+
+Billing Details:
+- Total Open Amount: 54714.07 USD
+- Payment Terms: NAA8
+- Routing Number: 000020033
+
+=========================================

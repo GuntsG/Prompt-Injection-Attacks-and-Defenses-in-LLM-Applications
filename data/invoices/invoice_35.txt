@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930731070.0
+Business Code: U001
+Customer Name: COST associates
+Customer Number: 0200794332
+
+Date Information:
+- Document Create Date: 20200401
+- Posting Date: 2020-04-07
+- Due Date: 20200422.0
+- Clear Date: nan
+
+Billing Details:
+- Total Open Amount: 3863.93 USD
+- Payment Terms: NAAX
+- Routing Number: 000020079
+
+=========================================

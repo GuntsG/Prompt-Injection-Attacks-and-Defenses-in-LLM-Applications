@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929050506.0
+Business Code: U001
+Customer Name: PERISH 
+Customer Number: 0200526831
+
+Date Information:
+- Document Create Date: 20190329
+- Posting Date: 2019-03-28
+- Due Date: 20190412.0
+- Clear Date: 2019-04-11 00:00:00
+
+Billing Details:
+- Total Open Amount: 134457.26 USD
+- Payment Terms: NAA8
+- Routing Number: 000020052
+
+=========================================

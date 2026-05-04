@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930698156.0
+Business Code: U001
+Customer Name: ASSOCIAT corp
+Customer Number: 0200772670
+
+Date Information:
+- Document Create Date: 20200325
+- Posting Date: 2020-03-24
+- Due Date: 20200408.0
+- Clear Date: nan
+
+Billing Details:
+- Total Open Amount: 24421.33 USD
+- Payment Terms: NAU5
+- Routing Number: 000020077
+
+=========================================

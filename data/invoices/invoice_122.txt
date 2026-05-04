@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929540585.0
+Business Code: U001
+Customer Name: JRD us
+Customer Number: 0200781803
+
+Date Information:
+- Document Create Date: 20190625
+- Posting Date: 2019-06-25
+- Due Date: 20190715.0
+- Clear Date: 2019-07-15 00:00:00
+
+Billing Details:
+- Total Open Amount: 1721.07 USD
+- Payment Terms: NAD1
+- Routing Number: 000020078
+
+=========================================

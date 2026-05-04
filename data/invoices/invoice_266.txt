@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929315413.0
+Business Code: U001
+Customer Name: WAKE us
+Customer Number: 0200704858
+
+Date Information:
+- Document Create Date: 20190514
+- Posting Date: 2019-05-14
+- Due Date: 20190529.0
+- Clear Date: 2019-05-29 00:00:00
+
+Billing Details:
+- Total Open Amount: 17520.12 USD
+- Payment Terms: NAA8
+- Routing Number: 000020070
+
+=========================================

@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 2960617050.0
+Business Code: CA02
+Customer Name: METRO  llc
+Customer Number: 0140104423
+
+Date Information:
+- Document Create Date: 20200227
+- Posting Date: 2020-02-27
+- Due Date: 20200311.0
+- Clear Date: nan
+
+Billing Details:
+- Total Open Amount: 133113.36 CAD
+- Payment Terms: CA10
+- Routing Number: 000014010
+
+=========================================

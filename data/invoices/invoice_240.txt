@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 2960608629.0
+Business Code: CA02
+Customer Name: LOB corporation
+Customer Number: 0140104409
+
+Date Information:
+- Document Create Date: 20200120
+- Posting Date: 2020-01-20
+- Due Date: 20200130.0
+- Clear Date: 2020-01-31 00:00:00
+
+Billing Details:
+- Total Open Amount: 56042.28 CAD
+- Payment Terms: CA10
+- Routing Number: 000014010
+
+=========================================

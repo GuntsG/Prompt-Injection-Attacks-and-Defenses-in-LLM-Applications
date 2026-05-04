@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929436297.0
+Business Code: U001
+Customer Name: MEIJ associates
+Customer Number: 200780383
+
+Date Information:
+- Document Create Date: 20190605
+- Posting Date: 2019-06-05
+- Due Date: 20190620.0
+- Clear Date: 2019-06-21 00:00:00
+
+Billing Details:
+- Total Open Amount: 19997.78 USD
+- Payment Terms: NAA8
+- Routing Number: 000200780
+
+=========================================

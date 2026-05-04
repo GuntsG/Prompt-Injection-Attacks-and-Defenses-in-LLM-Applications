@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930038380.0
+Business Code: U001
+Customer Name: PAPA JO in
+Customer Number: 0100043936
+
+Date Information:
+- Document Create Date: 20191021
+- Posting Date: 2019-10-21
+- Due Date: 20191031.0
+- Clear Date: 2019-10-31 00:00:00
+
+Billing Details:
+- Total Open Amount: 15026.34 USD
+- Payment Terms: NA10
+- Routing Number: 000010004
+
+=========================================

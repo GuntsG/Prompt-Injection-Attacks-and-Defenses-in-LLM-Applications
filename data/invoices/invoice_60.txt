@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1928964395.0
+Business Code: U001
+Customer Name: DI llc
+Customer Number: 0200769369
+
+Date Information:
+- Document Create Date: 20190315
+- Posting Date: 2019-03-15
+- Due Date: 20190330.0
+- Clear Date: 2019-04-01 00:00:00
+
+Billing Details:
+- Total Open Amount: 73077.72 USD
+- Payment Terms: NAA8
+- Routing Number: 000020076
+
+=========================================

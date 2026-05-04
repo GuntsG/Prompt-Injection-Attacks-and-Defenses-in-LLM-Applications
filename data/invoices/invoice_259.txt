@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1928552950.0
+Business Code: U001
+Customer Name: C&S WH trust
+Customer Number: 0200762301
+
+Date Information:
+- Document Create Date: 20190102
+- Posting Date: 2019-01-03
+- Due Date: 20190118.0
+- Clear Date: 2019-01-18 00:00:00
+
+Billing Details:
+- Total Open Amount: 5595.12 USD
+- Payment Terms: NAC6
+- Routing Number: 000020076
+
+=========================================

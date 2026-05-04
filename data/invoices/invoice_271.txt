@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929769590.0
+Business Code: U001
+Customer Name: SYSCO F systems
+Customer Number: 0200718130
+
+Date Information:
+- Document Create Date: 20190821
+- Posting Date: 2019-08-20
+- Due Date: 20190904.0
+- Clear Date: 2019-09-03 00:00:00
+
+Billing Details:
+- Total Open Amount: 2407.15 USD
+- Payment Terms: NAA8
+- Routing Number: 000020071
+
+=========================================

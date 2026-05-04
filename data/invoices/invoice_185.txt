@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929616920.0
+Business Code: U001
+Customer Name: SA in
+Customer Number: 0200759878
+
+Date Information:
+- Document Create Date: 20190713
+- Posting Date: 2019-07-13
+- Due Date: 20190728.0
+- Clear Date: 2019-07-29 00:00:00
+
+Billing Details:
+- Total Open Amount: 82605.09 USD
+- Payment Terms: NAH4
+- Routing Number: 000020075
+
+=========================================

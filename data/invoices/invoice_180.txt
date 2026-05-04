@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930123212.0
+Business Code: U001
+Customer Name: DEC associates
+Customer Number: 0200416837
+
+Date Information:
+- Document Create Date: 20191107
+- Posting Date: 2019-11-07
+- Due Date: 20191124.0
+- Clear Date: 2019-11-18 00:00:00
+
+Billing Details:
+- Total Open Amount: 4819.24 USD
+- Payment Terms: NAM4
+- Routing Number: 000020041
+
+=========================================

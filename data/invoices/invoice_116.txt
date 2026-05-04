@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930448984.0
+Business Code: U001
+Customer Name: SA llc
+Customer Number: 0200759878
+
+Date Information:
+- Document Create Date: 20200128
+- Posting Date: 2020-01-30
+- Due Date: 20200315.0
+- Clear Date: 2020-03-06 00:00:00
+
+Billing Details:
+- Total Open Amount: 124047.42 USD
+- Payment Terms: NAWP
+- Routing Number: 000020075
+
+=========================================

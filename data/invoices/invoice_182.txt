@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929534962.0
+Business Code: U001
+Customer Name: SYSTEMS co
+Customer Number: 0200719300
+
+Date Information:
+- Document Create Date: 20190625
+- Posting Date: 2019-06-26
+- Due Date: 20190716.0
+- Clear Date: 2019-07-17 00:00:00
+
+Billing Details:
+- Total Open Amount: 13859.37 USD
+- Payment Terms: NAD1
+- Routing Number: 000020071
+
+=========================================

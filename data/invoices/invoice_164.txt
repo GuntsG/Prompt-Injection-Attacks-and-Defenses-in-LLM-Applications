@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930135532.0
+Business Code: U001
+Customer Name: DI 
+Customer Number: 0200769369
+
+Date Information:
+- Document Create Date: 20191109
+- Posting Date: 2019-11-11
+- Due Date: 20191126.0
+- Clear Date: 2019-11-26 00:00:00
+
+Billing Details:
+- Total Open Amount: 15258.5 USD
+- Payment Terms: NAA8
+- Routing Number: 000020076
+
+=========================================

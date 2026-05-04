@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930645969.0
+Business Code: U001
+Customer Name: SYSCO systems
+Customer Number: 0200900909
+
+Date Information:
+- Document Create Date: 20200312
+- Posting Date: 2020-03-13
+- Due Date: 20200414.0
+- Clear Date: nan
+
+Billing Details:
+- Total Open Amount: 31512.75 USD
+- Payment Terms: NA32
+- Routing Number: 000020090
+
+=========================================

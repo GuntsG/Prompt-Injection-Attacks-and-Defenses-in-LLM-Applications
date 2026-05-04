@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930585378.0
+Business Code: U001
+Customer Name: BJ'S  corporation
+Customer Number: 0200726979
+
+Date Information:
+- Document Create Date: 20200301
+- Posting Date: 2020-03-02
+- Due Date: 20200317.0
+- Clear Date: nan
+
+Billing Details:
+- Total Open Amount: 13681.7 USD
+- Payment Terms: NAA8
+- Routing Number: 000020072
+
+=========================================

@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1928892907.0
+Business Code: U001
+Customer Name: AM llc
+Customer Number: 0200418007
+
+Date Information:
+- Document Create Date: 20190303
+- Posting Date: 2019-03-04
+- Due Date: 20190508.0
+- Clear Date: 2019-03-25 00:00:00
+
+Billing Details:
+- Total Open Amount: 72721.08 USD
+- Payment Terms: NAGD
+- Routing Number: 000020041
+
+=========================================

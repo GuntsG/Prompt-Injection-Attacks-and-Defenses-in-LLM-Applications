@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 2960633120.0
+Business Code: CA02
+Customer Name: SYSC llc
+Customer Number: 140105686
+
+Date Information:
+- Document Create Date: 20200506
+- Posting Date: 2020-05-06
+- Due Date: 20200518.0
+- Clear Date: nan
+
+Billing Details:
+- Total Open Amount: 61757.57 CAD
+- Payment Terms: CA10
+- Routing Number: 000140105
+
+=========================================

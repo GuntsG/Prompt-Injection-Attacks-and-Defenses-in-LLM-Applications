@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1930861637.0
+Business Code: U001
+Customer Name: DEC us
+Customer Number: 0200020431
+
+Date Information:
+- Document Create Date: 20200506
+- Posting Date: 2020-05-06
+- Due Date: 20200524.0
+- Clear Date: nan
+
+Billing Details:
+- Total Open Amount: 174.72 USD
+- Payment Terms: NAM4
+- Routing Number: 000020002
+
+=========================================

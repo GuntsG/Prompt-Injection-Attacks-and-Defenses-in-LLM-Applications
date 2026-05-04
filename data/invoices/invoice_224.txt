@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929647276.0
+Business Code: U001
+Customer Name: AM 
+Customer Number: 0200418007
+
+Date Information:
+- Document Create Date: 20190722
+- Posting Date: 2019-07-26
+- Due Date: 20190810.0
+- Clear Date: 2019-08-12 00:00:00
+
+Billing Details:
+- Total Open Amount: 3476.52 USD
+- Payment Terms: NAA8
+- Routing Number: 000020041
+
+=========================================

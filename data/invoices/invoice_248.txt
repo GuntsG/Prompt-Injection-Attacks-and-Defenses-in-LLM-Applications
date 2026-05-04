@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 2960591518.0
+Business Code: CA02
+Customer Name: COLABOR  llc
+Customer Number: 0140104340
+
+Date Information:
+- Document Create Date: 20191105
+- Posting Date: 2019-11-05
+- Due Date: 20191117.0
+- Clear Date: 2019-11-14 00:00:00
+
+Billing Details:
+- Total Open Amount: 2155.28 CAD
+- Payment Terms: CA10
+- Routing Number: 000014010
+
+=========================================

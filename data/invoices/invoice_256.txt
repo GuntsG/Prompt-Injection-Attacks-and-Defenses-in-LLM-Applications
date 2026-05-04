@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929375445.0
+Business Code: U001
+Customer Name: KRAFT  foundation
+Customer Number: CCCA02
+
+Date Information:
+- Document Create Date: 20190603
+- Posting Date: 2019-06-02
+- Due Date: 20190707.0
+- Clear Date: 2019-08-02 00:00:00
+
+Billing Details:
+- Total Open Amount: 74819.57 USD
+- Payment Terms: NAG2
+- Routing Number: 000CCCA02
+
+=========================================

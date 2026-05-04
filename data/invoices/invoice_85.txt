@@ -1,0 +1,21 @@
+
+=========================================
+               INVOICE
+=========================================
+Invoice ID: 1929867941.0
+Business Code: U001
+Customer Name: PEA us
+Customer Number: 0200455322
+
+Date Information:
+- Document Create Date: 20190912
+- Posting Date: 2019-09-12
+- Due Date: 20191012.0
+- Clear Date: 2019-11-07 00:00:00
+
+Billing Details:
+- Total Open Amount: 42362.3 USD
+- Payment Terms: NAD5
+- Routing Number: 000020045
+
+=========================================
